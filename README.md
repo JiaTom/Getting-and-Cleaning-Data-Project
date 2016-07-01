@@ -31,4 +31,5 @@ The R script is divided into three parts.
  2. Load and combine activity and subject data in both train and test set
  3. Combine subject, activity and measurement data. Compute the average of measurement and output in both txt and csv file.
  
+ Before run the R code set the work directory to the folder that contain the 'UCI HAR Dataset' folder, then source the script.
  For the detail explanations of code. Please see the annotation in run_analysis.R. 
